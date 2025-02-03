@@ -2,6 +2,12 @@
 	"adventure": [
 		{
 			"who": "Mark",
+			"type": "ride",
+			"start": "2025-02-13T18:05"
+		},
+		{},
+		{
+			"who": "Mark",
 			"type": "Road run",
 			"start": "2025-02-04T17:55"
 		}
