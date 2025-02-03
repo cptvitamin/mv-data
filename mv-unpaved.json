@@ -2,13 +2,15 @@
 	"adventure": [
 		{
 			"who": "Mark",
-			"type": "ride",
+			"type": "road",
 			"start": "2025-02-13T18:05"
 		},
-		{},
+		{
+			"type": "gravel"
+		},
 		{
 			"who": "Mark",
-			"type": "Road run",
+			"type": "biketour",
 			"start": "2025-02-04T17:55"
 		}
 	]
