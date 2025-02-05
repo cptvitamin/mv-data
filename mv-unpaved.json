@@ -1,6 +1,14 @@
 {
 	"adventure": [
 		{
+			"type": "trailrun",
+			"start": "2025-02-08T09:35",
+			"location": "Chester, VT",
+			"trailhead": "Geoff's House",
+			"mileage": 5,
+			"duration": "1.5 hours"
+		},
+		{
 			"type": "roadrun",
 			"start": "2025-02-05T06:00",
 			"location": "JP",
