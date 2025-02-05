@@ -2,13 +2,6 @@
 	"adventure": [
 		[
 			{
-				"who": "Mark",
-				"type": "road",
-				"start": "2025-02-13T18:05"
-			}
-		],
-		[
-			{
 				"type": "roadrun",
 				"start": "2025-02-05T06:00",
 				"who": "Mark",
@@ -17,11 +10,6 @@
 				"mileage": 5,
 				"duration": "1 hour"
 			}
-		],
-		{
-			"who": "Mark",
-			"type": "biketour",
-			"start": "2025-02-04T17:55"
-		}
+		]
 	]
 }
