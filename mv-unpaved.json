@@ -1,12 +1,13 @@
 {
 	"adventure": [
 		{
-			"type": "mtb",
-			"start": "2025-02-07T19:09",
-			"location": "Arnold Arboretum",
-			"trailhead": "South Gate",
-			"mileage": 6,
-			"duration": "2 hours"
+			"type": "mtb"
+		},
+		{
+			"type": "alpineski",
+			"start": "2025-02-13T07:00",
+			"location": "Jay Peak",
+			"duration": "6 hours"
 		},
 		[
 			{
