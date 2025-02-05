@@ -1,6 +1,14 @@
 {
 	"adventure": [
 		{
+			"type": "roadrun",
+			"start": "2025-02-05T06:00",
+			"location": "JP",
+			"trailhead": "Monumnet",
+			"mileage": 5,
+			"duration": "1 hour"
+		},
+		{
 			"type": "road",
 			"start": "2025-02-05T08:31",
 			"location": "Boston",
