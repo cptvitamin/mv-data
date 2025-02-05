@@ -1,6 +1,11 @@
 {
 	"adventure": [
 		{
+			"type": "roadrun",
+			"start": "2025-02-05T07:27",
+			"location": "Arnold Arboretum"
+		},
+		{
 			"type": "mtb",
 			"start": "2025-02-07T19:27",
 			"location": "JP"
