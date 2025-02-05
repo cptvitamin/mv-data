@@ -1,5 +1,13 @@
 {
 	"adventure": [
+		{
+			"type": "mtb",
+			"start": "2025-02-07T19:09",
+			"location": "Arnold Arboretum",
+			"trailhead": "South Gate",
+			"mileage": 6,
+			"duration": "2 hours"
+		},
 		[
 			{
 				"type": "roadrun",
@@ -11,5 +19,11 @@
 				"duration": "1 hour"
 			}
 		]
+	],
+	"upcoming-adventures": [
+		{
+			"who": "cptvitamin",
+			"type": "mtb"
+		}
 	]
 }
